@@ -1,3 +1,7 @@
+function back(){
+    window.location.href = "index.html";
+}
+
 function is(){
     window.location.href = "1.html";
 }
